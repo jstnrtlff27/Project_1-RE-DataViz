@@ -21,11 +21,16 @@ Data Sources:
     •	Ran an analysis of rental data collected for specified zip codes.
 
 Analysis Conclusion:
-    WV has the highest rental income per home price among 50 states
+    WV has the highest and MT has the lowest rental income percentage compared to home price among 50 states
     Top 5 cities with best return
         Calumet City, IL
         Camden, NJ
         Gary, IN
         Inkster, MI
         Park Forest, IL
+    If we had more time, we would consider:
+        Crime rate
+        Job growth
+        School quality
+        Average Income
 
