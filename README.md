@@ -21,3 +21,11 @@ Data Sources:
     •	Ran an analysis of rental data collected for specified zip codes.
 
 Analysis Conclusion:
+    WV has the highest rental income per home price among 50 states
+    Top 5 cities with best return
+        Calumet City, IL
+        Camden, NJ
+        Gary, IN
+        Inkster, MI
+        Park Forest, IL
+
